@@ -26,3 +26,5 @@ Trabalho Prático: Desenvolvimento de um E-commerce
 -CRUD de produtos (Adicionar, Editar, Deletar).
 5. Banco de dados
 -Armazenar produtos, usuários e pedidos.
+
+senha SQL: SenhaF0rte!2025
